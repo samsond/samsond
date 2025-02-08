@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m exploring better ways to automate data ingestion and optimize system performance based on access patterns.
 - 💬 Ask me about microservices, caching, distributed systems, and why every tech buzzword eventually circles back to performance.
 - ⚡ Fun fact: I treat learning new tech like a sport—if I’m not exploring something new, I’m probably debugging why I did.
-- 📫 You can reachout to me on [LinkedIn](https://www.linkedin.com/in/samson-desta/)
+- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samson-desta/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsond&show_icons=true&theme=dark&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=samsond&theme=dark)
