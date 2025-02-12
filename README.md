@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samson-desta/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samsond&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=samsond&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsond&layout=compact&theme=dark&count_private=true)
 
 
