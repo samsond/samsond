@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samdestahailu&layout=compact&langs_count=8&hide=html,css&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsond&layout=compact&langs_count=8&hide=html,css&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samsond&layout=compact&theme=dark&count_private=true)
 
