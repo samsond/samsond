@@ -20,12 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I treat learning new tech like a sport—if I’m not exploring something new, I’m probably debugging why I did.
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/samson-desta/)
 
-## Languages
-
-## Languages
-
-![Metrics](/github-metrics.svg)
-
 
 
   
